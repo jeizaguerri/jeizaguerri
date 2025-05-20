@@ -7,6 +7,6 @@ If you run into any issues, have questions, or just want to share feedback or su
 
 ### 📌 Featured Projects
 - [M-bot chatbot](https://github.com/jeizaguerri/m-bot): A conversational tool-use agent using Transformer-based models (Check it out [here](huggingface.co/spaces/jeizaguerri/m-bot))
-- [pokemon-pca](https://github.com/jeizaguerri/pokemon-pca): An interactive in-depth analysis of Pokemon types and stats in low-dimensional space (Check it out [here](https://pokemon-pca.streamlit.app/))
+- [Pokemon-pca](https://github.com/jeizaguerri/pokemon-pca): An interactive in-depth analysis of Pokemon types and stats in low-dimensional space (Check it out [here](https://pokemon-pca.streamlit.app/))
 - [Kilobots](https://github.com/jeizaguerri/kilobots): A robot swarm multi-agent system for pattern formation through self-assembly
 - [WhatsApp Classifier](https://github.com/jeizaguerri/whatsapp-classifier): A notebook where I explore the use of LLMs for message author prediction
